@@ -8,6 +8,12 @@
         <editfile path="/Website/Website.sln">
           <move target="/{InstanceName}.sln"/>
         </editfile>
+        <editfile path="/Website/.gitattributes">
+          <move target="/.gitattributes"/>
+        </editfile>
+        <editfile path="/Website/.gitignore">
+          <move target="/.gitignore"/>
+        </editfile>
       </actions>
     </install>
     <finish>

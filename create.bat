@@ -8,4 +8,5 @@ mkdir Views
 copy ..\Website\Website\Views Views
 mkdir Properties
 copy ..\Website\Website\Properties Properties
+copy ..\GitIgnore\*
 cd ..
