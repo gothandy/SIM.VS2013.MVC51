@@ -9,4 +9,4 @@ The 'create.bat' file copies the selected files from '/Website' to '/Visual Stud
 
 Please note unlike the default SIM 2012 packages this versions moves the solution file out of the project folder. This better follows normal Visual Studio convention.
 
-<strong>WARNING</strong> I am currently unable to get the manifest file working with SIM. For temporary workaround use the 'Visual Studio 2012 Website Project' zip and manifest.xml files and overwrite those found in your SIM\Packages file. Don't forget to back those up if you need them.
+<strong>WARNING</strong> I am currently unable to get the manifest file working with SIM. For temporary workaround use the `Visual Studio 2012 Website Project.zip` and `Visual Studio 2012 Website Project.manifest.xml` files and overwrite those found in your `SIM\Packages` file. This will depend on where you have placed the SIM files. Don't forget to back those up if you need them.
