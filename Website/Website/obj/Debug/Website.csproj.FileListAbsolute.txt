@@ -1,0 +1,16 @@
+C:\SC\SIM.VS2013.MVC51\Website\Website\bin\Website.dll.config
+C:\SC\SIM.VS2013.MVC51\Website\Website\bin\Website.dll
+C:\SC\SIM.VS2013.MVC51\Website\Website\bin\Website.pdb
+C:\SC\SIM.VS2013.MVC51\Website\Website\bin\System.Web.Helpers.dll
+C:\SC\SIM.VS2013.MVC51\Website\Website\bin\System.Web.Razor.dll
+C:\SC\SIM.VS2013.MVC51\Website\Website\bin\System.Web.WebPages.Deployment.dll
+C:\SC\SIM.VS2013.MVC51\Website\Website\bin\System.Web.WebPages.dll
+C:\SC\SIM.VS2013.MVC51\Website\Website\bin\System.Web.WebPages.Razor.dll
+C:\SC\SIM.VS2013.MVC51\Website\Website\bin\System.Web.Helpers.xml
+C:\SC\SIM.VS2013.MVC51\Website\Website\bin\System.Web.Razor.xml
+C:\SC\SIM.VS2013.MVC51\Website\Website\bin\System.Web.WebPages.xml
+C:\SC\SIM.VS2013.MVC51\Website\Website\bin\System.Web.WebPages.Deployment.xml
+C:\SC\SIM.VS2013.MVC51\Website\Website\bin\System.Web.WebPages.Razor.xml
+C:\SC\SIM.VS2013.MVC51\Website\Website\obj\Debug\Website.csprojResolveAssemblyReference.cache
+C:\SC\SIM.VS2013.MVC51\Website\Website\obj\Debug\Website.dll
+C:\SC\SIM.VS2013.MVC51\Website\Website\obj\Debug\Website.pdb
